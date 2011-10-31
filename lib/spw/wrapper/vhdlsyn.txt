@@ -1,0 +1,2 @@
+grspw_gen.vhd
+grspw2_gen.vhd
